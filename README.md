@@ -17,8 +17,8 @@ The problem might involve teaching an agent to interact optimally with an enviro
 8. Return the Q-table and the learned policy after completing all episodes.<br>
 
 ## SARSA LEARNING FUNCTION
-### Name: S JAIGANESH
-### Register Number: 212222240037
+### Name: P Balasudhan
+### Register Number: 212222240017
 
 ```python
 def sarsa(env,
